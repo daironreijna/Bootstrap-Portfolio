@@ -61,7 +61,11 @@ Explore the portfolio to gain insights into my skills, projects, and journey as 
 
 ![Portfolio Screenshot](./assets/images/screenshot.png)
 
-## Credits
+
+## Contributing
+I welcome contributions from the community to enhance the Bootstrap Portfolio Project. By participating in this project, you contribute to a vibrant and inclusive environment. To ensure a positive experience the code of conduct we will adhere to is based on the Contributor Covenant. Please review and follow these guidelines when contributing. [The Contributor Covenant]#https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md
+
+## Resources
 
 - Collaborators: [Add collaborators' GitHub profiles here]
 - Third-party Assets: [List third-party assets used with links to their creators' web presence]
