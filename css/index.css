@@ -1,0 +1,44 @@
+/*-- Global  
+-----------------------------------------------------------------------------------*/
+
+html {
+    scroll-behavior: smooth;
+  }
+
+/*-- Navbar  
+-----------------------------------------------------------------------------------*/
+
+.navbar-brand img {
+    width: 10%;
+    padding: 12px;
+}
+
+/*-- Jumbotron 
+-----------------------------------------------------------------------------------*/
+.heroBackground {
+    background-image: url(../images/02-hero-bg.jpg)
+    /* when the below settings are on, then the photo does not show. This needs to be fixed. 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+
+/*-- Cards 
+-----------------------------------------------------------------------------------*/
+
+/*-- Form  
+-----------------------------------------------------------------------------------*/
+
+/*-- Footer 
+-----------------------------------------------------------------------------------*/
+
+<a href="#top" class="btn btn-secondary btn-lg">Back to Top</a>
+    
+/*-- Modal 
+-----------------------------------------------------------------------------------*/
+
+

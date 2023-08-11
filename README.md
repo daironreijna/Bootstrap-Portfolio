@@ -13,7 +13,7 @@ Enhancing Your Web Presence with a Professional Portfolio
 - [Standout Features](#standout-features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
@@ -70,6 +70,34 @@ I welcome contributions from the community to enhance the Bootstrap Portfolio Pr
 - Collaborators: [Add collaborators' GitHub profiles here]
 - Third-party Assets: [List third-party assets used with links to their creators' web presence]
 - Tutorials: [Add links to relevant tutorials followed during the project]
+- https://tinypng.com/
+- find and optimise move image from png to svg
+
+- Creating a Modal Image Gallery With Bootstrap Components https://css-tricks.com/creating-a-modal-image-gallery-with-bootstrap-components/
+
+- Halfmoon: A Bootstrap Alternative with Dark Mode Built In - https://css-tricks.com/halfmoon-a-bootstrap-alternative-with-dark-mode-built-in/
+
+- https://css-tricks.com/a-complete-beginners-guide-to-npm/
+- https://css-tricks.com/dialog-components-roll-your-own/
+- https://css-tricks.com/css-cascade-layers/
+- https://webdesign.tutsplus.com/how-to-use-figmas-inspect-panel--cms-36323t
+- https://www.youtube.com/watch?v=B242nuM3y2s
+- https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+- https://mui.com/material-ui/
+- https://m3.material.io/
+- https://www.youtube.com/materialdesign
+
+Bootstrap Documentation
+
+Responsive Web Design - How to Create Media Queries
+
+Media Queries 101 by CSS Tricks
+
+Media Query Documentation
+
+Github Pages Guide
+
+Choose "Project Site" and "Start from Scratch" to get correct instructions.
 
 ## License
 
