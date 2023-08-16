@@ -2,8 +2,9 @@
 -----------------------------------------------------------------------------------*/
 
 html {
-    scroll-behavior: smooth;
-  }
+  scroll-behavior: smooth;
+}
+
 
 /*-- Navbar  
 -----------------------------------------------------------------------------------*/
@@ -16,28 +17,65 @@ html {
 /*-- Jumbotron 
 -----------------------------------------------------------------------------------*/
 .heroBackground {
-    background-image: url(../images/02-hero-bg.jpg)
-    /* when the below settings are on, then the photo does not show. This needs to be fixed. 
-    background-size: cover;
+    background-image: url(../images/02-hero-bg.jpg);
     background-repeat: no-repeat;
-    height: calc(100vh - 25px);
+    background-size: cover;
+    /*height: calc(100vh - 125px); */
     display: flex;
     align-items: center;
-    justify-content: center; */
+    justify-content: center; 
 }
 
 
 /*-- Cards 
 -----------------------------------------------------------------------------------*/
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.card-body {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+.card-text {
+  flex-grow: 1;
+}
+
+.cardContainer img {
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
+
+@media (max-width: 780px) {
+  .cardContainer img {
+    aspect-ratio: 1.45 / 1;
+  }
+}
 
 /*-- Form  
 -----------------------------------------------------------------------------------*/
+.signup-section {
+    padding: 10rem 0;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.1) 0%,
+        rgba(0, 0, 0, 0.5) 75%,
+        #000000 100%
+      ),
+      url('../images/6_card.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
 
 /*-- Footer 
 -----------------------------------------------------------------------------------*/
 
-<a href="#top" class="btn btn-secondary btn-lg">Back to Top</a>
-    
+
 /*-- Modal 
 -----------------------------------------------------------------------------------*/
 
