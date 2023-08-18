@@ -49,6 +49,10 @@ html {
   object-fit: cover;
 }
 
+.parentRow {
+  justify-content: center;
+}
+
 @media (max-width: 780px) {
   .cardContainer img {
     aspect-ratio: 1.45 / 1;
